@@ -1,0 +1,392 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "numberbridge",
+            "request": "launch",
+            "mainClass": "patternprint.composite.numberbridge",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "strarpyramid2",
+            "request": "launch",
+            "mainClass": "patternprint.composite.strarpyramid2",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "stardiamond",
+            "request": "launch",
+            "mainClass": "patternprint.composite.stardiamond",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "starbridge",
+            "request": "launch",
+            "mainClass": "patternprint.composite.starbridge",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "pyramidpalindrome",
+            "request": "launch",
+            "mainClass": "patternprint.composite.pyramidpalindrome",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "starpyramid",
+            "request": "launch",
+            "mainClass": "patternprint.composite.starpyramid",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "rombhus",
+            "request": "launch",
+            "mainClass": "patternprint.composite.rombhus",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "verticalflip2",
+            "request": "launch",
+            "mainClass": "patternprint.specialpattern.verticalflip2",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "verticallfliptrangle",
+            "request": "launch",
+            "mainClass": "patternprint.specialpattern.verticallfliptrangle",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "fliptriang",
+            "request": "launch",
+            "mainClass": "patternprint.specialpattern.fliptriang",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "binarytriang",
+            "request": "launch",
+            "mainClass": "patternprint.specialpattern.binarytriang",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "starcross",
+            "request": "launch",
+            "mainClass": "patternprint.specialpattern.starcross",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "starplus",
+            "request": "launch",
+            "mainClass": "patternprint.specialpattern.starplus",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "icrementnum",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.icrementnum",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "oddtrang",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.oddtrang",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "reversestar",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.reversestar",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "mixtriang",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.mixtriang",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "repeatnum",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.repeatnum",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "alpha",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.alpha",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "numtri",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.numtri",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "startriangle",
+            "request": "launch",
+            "mainClass": "patternprint.triangle.startriangle",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "alpha2",
+            "request": "launch",
+            "mainClass": "patternprint.square.alpha2",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "alpha",
+            "request": "launch",
+            "mainClass": "patternprint.square.alpha",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "numsq",
+            "request": "launch",
+            "mainClass": "patternprint.square.numsq",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "squ",
+            "request": "launch",
+            "mainClass": "patternprint.square.squ",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "rec",
+            "request": "launch",
+            "mainClass": "patternprint.square.rec",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "sumdigit",
+            "request": "launch",
+            "mainClass": "loops.sumdigit",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "countdigit",
+            "request": "launch",
+            "mainClass": "loops.countdigit",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "predictwhile",
+            "request": "launch",
+            "mainClass": "loops.predictwhile",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "dowhileloop",
+            "request": "launch",
+            "mainClass": "loops.dowhileloop",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "composite",
+            "request": "launch",
+            "mainClass": "loops.composite",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "geometricprogression",
+            "request": "launch",
+            "mainClass": "loops.geometricprogression",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic1",
+            "request": "launch",
+            "mainClass": "loops.arithmetic1",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "loops.arithmetic",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "loops.table",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "loops.even",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "firstloop",
+            "request": "launch",
+            "mainClass": "loops.firstloop",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "basicloops",
+            "request": "launch",
+            "mainClass": "loops.basicloops",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "conditions.output",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "ternaryoperator",
+            "request": "launch",
+            "mainClass": "conditions.ternaryoperator",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "quadrant",
+            "request": "launch",
+            "mainClass": "conditions.quadrant",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "marks",
+            "request": "launch",
+            "mainClass": "conditions.marks",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "leastnested",
+            "request": "launch",
+            "mainClass": "conditions.leastnested",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "gratestnested",
+            "request": "launch",
+            "mainClass": "conditions.gratestnested",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "greatestnum",
+            "request": "launch",
+            "mainClass": "conditions.greatestnum",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "validtriangle",
+            "request": "launch",
+            "mainClass": "conditions.validtriangle",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "divisible",
+            "request": "launch",
+            "mainClass": "conditions.divisible",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "threedigit",
+            "request": "launch",
+            "mainClass": "conditions.threedigit",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "rectangle",
+            "request": "launch",
+            "mainClass": "conditions.rectangle",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "profitloss",
+            "request": "launch",
+            "mainClass": "conditions.profitloss",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "absolute",
+            "request": "launch",
+            "mainClass": "conditions.absolute",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "equalityoperator",
+            "request": "launch",
+            "mainClass": "conditions.equalityoperator",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "conditions.evenodd",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "helloworld",
+            "request": "launch",
+            "mainClass": "Basics.helloworld",
+            "projectName": "java_a09781ab"
+        }
+    ]
+}
