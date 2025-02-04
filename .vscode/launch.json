@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countandsquaredigit",
+            "request": "launch",
+            "mainClass": "Methods.countandsquaredigit",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "oddnumber",
+            "request": "launch",
+            "mainClass": "Methods.oddnumber",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "circle",
+            "request": "launch",
+            "mainClass": "Methods.circle",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "squareofn",
+            "request": "launch",
+            "mainClass": "Methods.squareofn",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "callingstring",
+            "request": "launch",
+            "mainClass": "Methods.callingstring",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "Methods.add",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "secondlargest",
+            "request": "launch",
+            "mainClass": "Array.secondlargest",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "maximum",
+            "request": "launch",
+            "mainClass": "Array.maximum",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Array.linearsearch",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "Array.product",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Array.sum",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "marks",
+            "request": "launch",
+            "mainClass": "Array.marks",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "initializearray",
+            "request": "launch",
+            "mainClass": "Array.initializearray",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "basicsyntax2",
+            "request": "launch",
+            "mainClass": "Array.basicsyntax2",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
+            "name": "basicsyntax",
+            "request": "launch",
+            "mainClass": "Array.basicsyntax",
+            "projectName": "java_a09781ab"
+        },
+        {
+            "type": "java",
             "name": "numberbridge",
             "request": "launch",
             "mainClass": "patternprint.composite.numberbridge",
