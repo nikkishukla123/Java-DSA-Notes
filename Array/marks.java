@@ -6,7 +6,7 @@ public class marks {
         for(int i=0; i<arr.length; i++){ // i kab tak chalega jab tak less than hai array ki lengh sa
             if(arr[i]<35)
            {
-            System.out.print(i +" ");
+            System.out.print(i +" ");  // print that index
            }
         }
     }

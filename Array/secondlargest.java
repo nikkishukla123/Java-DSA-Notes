@@ -27,7 +27,8 @@ public class secondlargest {
                 }
          System.out.println(max);
          System.out.println(smax);
-
+           
+            
 
             }
 }

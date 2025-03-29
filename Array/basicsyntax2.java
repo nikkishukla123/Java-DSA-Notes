@@ -9,7 +9,7 @@ public class basicsyntax2 {
         // int arr[] = new int[4]; // can also do n size array rather than fix size
 
          //easyway of initializing individual elements
-         for(int i=0; i<=n-1; i++){   //input
+         for(int i=0; i<n; i++){   //input
             arr[i] = sc.nextInt();
          }
 

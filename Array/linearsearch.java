@@ -26,9 +26,9 @@ for(int i=0; i<n; i++){
         // break;
         
     }
-   
+
 }
-if(fetch==true){
+if(fetch==true){    //only printing is happening here
     System.out.println("element found");
 } else System.out.println("not");
 
